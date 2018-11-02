@@ -3,4 +3,5 @@ They start to contort and mishape until they resemble a twisted figure of what *
 
 What Do You Do Now?  
 [Freak Out](freak_out.md)  
-[Make your twisted child sustinacne](make_food.md)
+
+[Make your twisted child sustinacne](make_them_food.md)
