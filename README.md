@@ -1,3 +1,5 @@
+the purpose of this project is to test our ability to link files.
+
 Click [here](wake_up.md) to begin
 
 Click [here](https://docs.google.com/drawings/d/1Jj44JtlFUdxgRf2a8Xlc2FUAAuss2NJHY99ogA7Pu6U/edit?usp=sharing) to see the diagram
