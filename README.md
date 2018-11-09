@@ -1,4 +1,4 @@
-the purpose of this project is to test our ability to link files.
+The purpose of this project is to test our ability to link files.
 
 Click [here](wake_up.md) to begin
 
